@@ -26,7 +26,5 @@ public class Main {
        for(Map.Entry<Integer,Car> item : map.entrySet()){
            System.out.printf("Key: %s  Value: %s %s \n", item.getKey(), item.getValue().getNameList(), item.getValue().getNumberList());
        }
-
-
     }
 }
