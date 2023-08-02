@@ -14,7 +14,6 @@ public class Car {
     }
 
     public Car() {
-
     }
 
     public Car(List<String> nameList, List<Integer> numberList) {
