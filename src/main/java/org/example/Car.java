@@ -4,7 +4,6 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-
 public class Car {
     List<String> nameList = Collections.emptyList();
     List<Integer> numberList= Collections.emptyList();
