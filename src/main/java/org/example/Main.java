@@ -27,7 +27,7 @@ public class Main {
            System.out.printf("Key: %s  Value: %s %s \n", item.getKey(), item.getValue().getNameList(), item.getValue().getNumberList());
            System.out.printf("Key: %s  Value: %s %s \n", item.getKey(), item.getValue().getNameList(), item.getValue().getNumberList());
            System.out.printf("Key: %s  Value: %s %s \n", item.getKey(), item.getValue().getNameList(), item.getValue().getNumberList());
-           System.out.printf("Key: %s  Value: %s %s \n", item.getKey(), item.getValue().getNameList(), item.getValue().getNumberList());
+
        }
     }
 }

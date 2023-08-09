@@ -1,8 +1,12 @@
 package org.example;
 
+
+import lombok.Data;
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
+
 
 public class Car {
     List<String> nameList = Collections.emptyList();
@@ -14,6 +18,7 @@ public class Car {
     }
 
     public Car() {
+
     }
 
     public Car(List<String> nameList, List<Integer> numberList) {
